@@ -11,7 +11,7 @@ const featuredProducts = [
     price: 120,
     unit: "kg",
     farmer: "Green Valley Farm",
-    image: "/templates/organic tomato.jpg?height=200&width=200",
+    image: "templates/organic tomato.jpg",
     organic: true,
   },
   {
@@ -20,7 +20,7 @@ const featuredProducts = [
     price: 180,
     unit: "dozen",
     farmer: "Sunrise Poultry",
-    image: "/templates/fresh egg.jpg?height=200&width=200",
+    image: "templates/fresh egg.jpg",
     organic: false,
   },
   {
@@ -29,7 +29,7 @@ const featuredProducts = [
     price: 350,
     unit: "jar",
     farmer: "Bee Haven Apiary",
-    image: "/templates/honey.jpg?height=200&width=200",
+    image: "templates/honey.jpg",
     organic: true,
   },
   {
@@ -38,7 +38,7 @@ const featuredProducts = [
     price: 799,
     unit: "basket",
     farmer: "Riverside Gardens",
-    image: "/templates/seasonal vegetable basket.jpg?height=200&width=200",
+    image: "templates/seasonal vegetable basket.jpg",
     organic: true,
   },
 ]
